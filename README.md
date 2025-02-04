@@ -60,11 +60,11 @@ Expected Output :
 ## iPython Notebook
 
 Jupyter/iPython Notebook has been provided with more examples and interactive tutorial.
-<https://github.com/iamaaditya/VQA_Demo/blob/master/Visual_Question_Answering_Demo_in_python_notebook.ipynb>
+<https://github.com/stephen-olet/VQA_Demo/blob/master/Visual_Question_Answering_Demo_in_python_notebook.ipynb>
 
 NOTE:
 See the comments on demo.py for more information on the model and methods
 
 # VQA Training
 
-* See the repo https://github.com/iamaaditya/VQA_Keras to learn how to train new models
+* See the repo https://github.com/stephen-olet/VQA_Keras to learn how to train new models
